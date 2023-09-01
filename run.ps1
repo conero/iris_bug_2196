@@ -1,0 +1,1 @@
+air --build.cmd "go build" --build.bin "test.exe"
